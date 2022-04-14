@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 int main()
 {
     int i, j, k, p, ch, n1, n2, set1[10], set2[10], set3[20], flag;
