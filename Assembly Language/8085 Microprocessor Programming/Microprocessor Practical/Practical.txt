@@ -1,0 +1,8 @@
+01. Memory Transfer Operation
+02. 8-bit Addition
+03. 16-bit Addition
+04. 8-bit Subtraction
+05. 16-bit Subtraction
+06. 8-bit Multiplication
+07. 16-bit Multiplication
+08. 8-bit Division
