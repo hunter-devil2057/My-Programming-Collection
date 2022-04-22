@@ -1,0 +1,98 @@
+*
+{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+/* For defining own variable  in CSS, Important for SASS*/
+:root
+{
+	--primary-color: #F0F0F0;
+/* Matching colors from Color Calculation 
+session.edu/color-calculator/
+*/
+	--secondary-color:#BC4521;
+}
+
+
+.header-top
+{
+	background-color: var(--primary-color);
+
+}
+
+
+/* 
+List types
+UL: Unordered List
+OL: Ordered List
+DL: Data List
+*/
+
+/* 
+.social-media svg
+{
+	color: orangered;// if we use svg xmlns>defs>symbol id>title>path fill="currentColor" path then only this works 
+} */
+
+/* 
+can also use
+.icon-facebook svg
+{
+	color:blue;
+}
+
+.icon-instagram svg
+{
+	color:cyan;
+}
+*/
+/* .social-media li
+{
+    list-style: none;
+}
+.social-media a
+{
+    display: inline-block;
+    font-size: 0;
+    text-decoration: none;
+    margin-left:10px;
+    background: url('../img/sprite-image.png') no-repeat;
+}
+.icon-facebook a
+{
+	background-position: -19px -42px;
+	width: 16px;
+	height: 32px;
+}
+.icon-whatsapp a
+{
+	background-position: -66px -42px;
+	width: 32px;
+	height: 32px;
+}
+.icon-instagram a
+{
+	background-position: -119px -42px;
+	width: 32px;
+	height: 32px;
+}
+.icon-linkedin a
+{
+    background-position: -180px -45px;
+	width: 28px;
+	height: 26px;
+}
+.icon-youtube a
+{
+    background-position: -242px -46px;
+	width: 32px;
+	height: 24px;
+}
+.icon-twitter a
+{
+    background-position: -310px -44px;
+	width: 32px;
+	height: 28px;
+} */

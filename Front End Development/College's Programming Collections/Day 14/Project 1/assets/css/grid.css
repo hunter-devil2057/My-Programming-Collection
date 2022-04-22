@@ -1,0 +1,82 @@
+*
+{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+.row
+{
+    max-width: 1440px;
+    margin:0 auto;
+    /* 
+    top, right, bottom, left
+    */
+    /* width: 100%; */
+}
+
+.col
+{
+    display: block;
+    float: left;
+}
+
+.col_1
+{
+    width:8.33%;
+}
+
+.col_2
+{
+    width:16.66%;
+}
+
+.col_3
+{
+    width:24.99%;
+}
+
+.col_4
+{
+    width:33.33%;
+}
+
+.col_5
+{
+    width:41.65%;
+}
+
+.col_6
+{
+    width:49.98%;
+}
+
+.col_7
+{
+    width:58.31%;
+}
+
+.col_8
+{
+    width:66.66%;
+}
+
+.col_9
+{
+    width:74.97%;
+}
+
+.col_10
+{
+    width:83.30%;
+}
+
+.col_11
+{
+    width:91.63%;
+}
+
+.col_12
+{
+    width:100%;
+}
