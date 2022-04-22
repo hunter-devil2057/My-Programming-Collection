@@ -1,0 +1,25 @@
+*
+{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+.header
+{
+    height:100px;
+    width:100%;
+    background-color: #ffffff;
+}
+
+nav ul li
+{
+    list-style: none;
+    margin:0 10px 0 10px;
+    text-align: right;
+}
+
+nav ul li a
+{
+    text-decoration: none;
+}
